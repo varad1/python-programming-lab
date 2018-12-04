@@ -1,3 +1,5 @@
+#Varad dhat
+#M14
 import numpy as np
 n=int(input("enter the number"))
 a=0
