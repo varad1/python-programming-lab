@@ -1,3 +1,5 @@
+#Varad dhat#
+#M14#
 def armstrong_number(x):
     sum=0
     num=x 
